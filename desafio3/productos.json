@@ -1,0 +1,20 @@
+[
+  {
+    "title": "cupcakes",
+    "price": 9000,
+    "thumbnail": "...",
+    "id": 1
+  },
+  {
+    "title": "cookies",
+    "price": 9000,
+    "thumbnail": "...",
+    "id": 2
+  },
+  {
+    "title": "carrot cake ",
+    "price": 19000,
+    "thumbnail": "...",
+    "id": 3
+  }
+]

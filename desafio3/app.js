@@ -8,8 +8,8 @@ const instancia = new Contenedor("./productos.json");
 
 async function saveProduct() {
 	await instancia.save({
-		title: "cupcakes",
-		price: 9000,
+		title: "carrot cake ",
+		price: 19000,
 		thumbnail: "...",
 	});
 }
